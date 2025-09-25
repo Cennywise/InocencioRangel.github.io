@@ -136,7 +136,7 @@ export default function App() {
               {/* Picture */}
               <div className="flex-shrink-0 w-[500px] h-[500px] rounded-full overflow-hidden shadow-lg">
                 <img
-                  src="/selfie/tree_lean.jpg"
+                  src="selfie/tree_lean.jpg"
                   alt="Cenny Rangel"
                   className="w-full h-full object-cover"
                 />
