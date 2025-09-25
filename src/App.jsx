@@ -4,7 +4,7 @@ const projects = [
   {
     title: "Tableau: Boston Airbnb Dashboard",
     link: "https://github.com/Cennywise/Boston-Airbnb-Dashboard",
-    hoverImage: "/project_images/Boston_Dashboard_Pic.png",
+    hoverImage: "project_images/Boston_Dashboard_Pic.png",
     animation: "animate-slide",
   },
   {
