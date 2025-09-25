@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'DuneRise';
+  src: url('/fonts/dune_rise/Dune_Rise.ttf') format('truetype');
+  font-weight: 400 700;         /* optional: declare weight range if unknown */
+  font-style: normal;
+  font-display: swap;          /* recommended to avoid invisible text */
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Animated background */
+body {
+  background: linear-gradient(-45deg, #000000, #000000, #363636, #000000);
+  background-size: 400% 400%;
+  animation: gradientBG 15s ease infinite;
+}
+
+@keyframes gradientBG {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+html {
+  scroll-behavior: smooth;
+}
