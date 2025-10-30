@@ -152,7 +152,7 @@ export default function App() {
                   &emsp; After graduating from UC Davis, I worked for two years at Lewis Brisbois Bisgaard & Smith.
                   There I pulled all-nighters, covered 3 jobs at once, and was relied on be nearly every person in the office.
                   When they became severely understaffed, I went above and beyond to keep day-to-day operations running smoothly.
-                  My coworkers were heartbroken to see me go, but now I'm taking my talents and work ethic into the fields of research and data analysis.
+                  My coworkers were heartbroken to see me go, but now I'm taking my talents and work ethic into research and data analysis.
                 </p>
                 <p className="mb-4">
                   &emsp; I know a lot, and I can learn anything.
