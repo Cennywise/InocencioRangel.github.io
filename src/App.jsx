@@ -150,13 +150,13 @@ export default function App() {
                 </p>
                 <p className="mb-4">
                   &emsp; After graduating from UC Davis, I worked for two years at Lewis Brisbois Bisgaard & Smith.
-                  There I pulled all-nighters, covered 3 jobs at once, and was relied on be nearly every person in the office.
+                  There I pulled all-nighters, covered 3 jobs at once, and was relied on by nearly every person in the office.
                   When they became severely understaffed, I went above and beyond to keep day-to-day operations running smoothly.
                   My coworkers were heartbroken to see me go, but now I'm taking my talents and work ethic into research and data analysis.
                 </p>
                 <p className="mb-4">
                   &emsp; I know a lot, and I can learn anything.
-                  I graduated with a 3.5 GPA with a Batchelor's in mathematics and a minor in computer science.
+                  I graduated with a 3.5 GPA with a Bachelor's in mathematics and a minor in computer science.
                   I know 3 programming languages, and I've taught myself all the most important skills for data analysis, including Python, SQL, Excel, Tableau, and Power BI.
                   Above, I showcase my capabilities building dashboards, web scraping, cleaning and exploring data.
                   I do everything and more.
