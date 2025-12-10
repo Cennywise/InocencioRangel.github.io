@@ -2,56 +2,56 @@ import { Mail, Linkedin, Github } from "lucide-react";
 
 const projects = [
   {
-    title: "Tableau: Boston Airbnb Dashboard",
+    title: "Boston Airbnb Dashboard (Tableau)",
     link: "https://github.com/Cennywise/Boston-Airbnb-Dashboard",
     hoverImage: "project_images/Boston_Dashboard_Pic.png",
     animation: "animate-slide",
   },
   {
-    title: "Power BI: Data Analyst Survey",
+    title: "Data Analyst Survey (Power BI)",
     link: "https://github.com/Cennywise/Data-Analysis-Survey-Dashboard",
     hoverImage: "project_images/Power_BI_Dashboard.jpg",
     animation: "animate-slide",
   },
   {
-    title: "SQL: Worldwide Layoffs",
+    title: "Worldwide Layoffs (SQL)",
     link: "https://github.com/Cennywise/MySQL-Exploratory-Data-Analysis",
     hoverImage: "project_images/world_layoffs.jpg",
     animation: "animate-slide",
   },
   {
-    title: "Python: Unemployment Rates and Reddit",
+    title: "Reddit-Unemployment Study (Python)",
     link: "https://github.com/Cennywise/Reddit-Economy-Analysis",
     hoverImage: "project_images/Employment_and_Sentiment.png",
     animation: "animate-slide",
   },
   {
-    title: "Python: AI Spotify Model",
+    title: "AI Spotify Model (Python)",
     link: "https://github.com/leelasriniv/ecs-171-project",
     hoverImage: "project_images/Spotify_App.jpg",
     animation: "animate-slide",
   },
   {
-    title: "Excel: Sales Data Cleaning",
+    title: "Sales Data Cleaning (Excel)",
     link: "https://github.com/Cennywise/Bike-Sales-Data-Cleaning",
     hoverImage: "project_images/bike_store.jpg",
     animation: "animate-slide",
   },
   {
-    title: "C++: AI Synonym Finder",
+    title: "AI Synonym Finder (C++)",
     link: "https://github.com/Cennywise/AI-Synonym-Finder",
     hoverImage: "project_images/robot_library.jpg",
     animation: "animate-slide",
   },
   {
-    title: "Unity/C#: Embers",
+    title: "Embers (Unity/C#)",
     link: "https://github.com/Cennywise/Embers-3D-Survival-Game",
     hoverImage: "project_images/Embers.png",
     animation: "animate-slide",
   },
   {
-    title: "React + Tailwind: This Website",
-    link: "https://cennywise.github.io/InocencioRangel.github.io/",
+    title: "This Website (React + Tailwind)",
+    link: "https://github.com/Cennywise/InocencioRangel.github.io",
     hoverImage: "project_images/website.png",
     animation: "animate-slide",
   },
@@ -65,7 +65,7 @@ export default function App() {
         {/* Content */}
         <div className="flex flex-col items-center justify-between min-h-screen py-10">
           {/* Top: Your Name */}
-          <h1 className="text-4xl font-dunerise mb-8">Inocencio Rangel</h1>
+          <h1 className="text-4xl font-dunerise text-center mb-8">Inocencio Rangel</h1>
 
         {/* Circles Grid */}
         <div className="grid grid-cols-3 gap-8 my-16">
@@ -119,7 +119,7 @@ export default function App() {
         </div>
 
           {/* Bottom: Project Portfolio */}
-          <h2 className="text-4xl font-dunerise mb-8">Project Portfolio</h2>
+          <h2 className="text-4xl font-dunerise text-center mb-8">Project Portfolio</h2>
         </div>
       </section>
 
@@ -145,25 +145,18 @@ export default function App() {
               {/* Self-summary text */}
               <div className="flex-1 text-left text-xl">
                 <p className="mb-4">
-                  &emsp; How would you like a lighter workload?
-                  I have a proven track record of ability to cover multiple jobs and a habit of going far above the call of duty.
+                  &emsp; I’m a math-trained analyst with a strong technical foundation and a habit of taking ownership of whatever work needs to get done.
+                  I graduated from UC Davis with a B.S. in Mathematics, a computer science minor focused on machine learning, and a 3.5 GPA.
+                  I’ve built additional experience through a data analytics bootcamp, technical projects, and ongoing work training AI models.
                 </p>
                 <p className="mb-4">
-                  &emsp; After graduating from UC Davis, I worked for two years at Lewis Brisbois Bisgaard & Smith.
-                  There I pulled all-nighters, covered 3 jobs at once, and was relied on by nearly every person in the office.
-                  When they became severely understaffed, I went above and beyond to keep day-to-day operations running smoothly.
-                  My coworkers were heartbroken to see me go, but now I'm taking my talents and work ethic into research and data analysis.
+                  &emsp; Before moving into analytics, I spent two years at a law firm where I became the go-to problem-solver for both staff and attorneys.
+                  I handled IT issues, trial preparation, billing support, and a wide range of responsibilities.
+                  I was awarded Employee of the Year for my impact and became someone the managing partner trusted during major trials.
                 </p>
                 <p className="mb-4">
-                  &emsp; I know a lot, and I can learn anything.
-                  I graduated with a 3.5 GPA with a Bachelor's in mathematics and a minor in computer science.
-                  I know 3 programming languages, and I've taught myself all the most important skills for data analysis, including Python, SQL, Excel, Tableau, and Power BI.
-                  Above, I showcase my capabilities building dashboards, web scraping, cleaning and exploring data.
-                  I do everything and more.
-                </p>
-                <p>
-                  &emsp; I'm eager to join your team and start making your workplace the best it's ever been.
-                  Let's get in touch!
+                  &emsp; I enjoy turning complex information into clear, useful insights and producing work people can count on.
+                  I’m looking to bring that same reliability and attention to detail to a role where I can contribute in a meaningful way.
                 </p>
               </div>
             </div>
