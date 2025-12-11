@@ -2,55 +2,55 @@ import { Mail, Linkedin, Github } from "lucide-react";
 
 const projects = [
   {
-    title: "Boston Airbnb Dashboard  (Tableau)",
+    title: "Boston Airbnbs Dashboard (Tableau)",
     link: "https://github.com/Cennywise/Boston-Airbnb-Dashboard",
     hoverImage: "project_images/Boston_Dashboard_Pic.png",
     animation: "animate-slide",
   },
   {
-    title: "Data Analyst Survey  (Power BI)",
+    title: "Survey Dashboard (Power BI)",
     link: "https://github.com/Cennywise/Data-Analysis-Survey-Dashboard",
     hoverImage: "project_images/Power_BI_Dashboard.jpg",
     animation: "animate-slide",
   },
   {
-    title: "Worldwide Layoffs  (SQL)",
+    title: "Worldwide Layoffs (SQL)",
     link: "https://github.com/Cennywise/MySQL-Exploratory-Data-Analysis",
     hoverImage: "project_images/world_layoffs.jpg",
     animation: "animate-slide",
   },
   {
-    title: "Reddit-Unemployment Study  (Python)",
+    title: "Reddit-Unemployment Study (Python)",
     link: "https://github.com/Cennywise/Reddit-Economy-Analysis",
     hoverImage: "project_images/Employment_and_Sentiment.png",
     animation: "animate-slide",
   },
   {
-    title: "AI Spotify Model  (Python)",
+    title: "AI Spotify Model (Python)",
     link: "https://github.com/leelasriniv/ecs-171-project",
     hoverImage: "project_images/Spotify_App.jpg",
     animation: "animate-slide",
   },
   {
-    title: "Sales Data Cleaning  (Excel)",
+    title: "Sales Data Cleaning (Excel)",
     link: "https://github.com/Cennywise/Bike-Sales-Data-Cleaning",
     hoverImage: "project_images/bike_store.jpg",
     animation: "animate-slide",
   },
   {
-    title: "AI Synonym Finder  (C++)",
+    title: "AI Synonym Finder (C++)",
     link: "https://github.com/Cennywise/AI-Synonym-Finder",
     hoverImage: "project_images/robot_library.jpg",
     animation: "animate-slide",
   },
   {
-    title: "Embers  (Unity/C#)",
+    title: "Embers (Unity/C#)",
     link: "https://github.com/Cennywise/Embers-3D-Survival-Game",
     hoverImage: "project_images/Embers.png",
     animation: "animate-slide",
   },
   {
-    title: "This Website  (React + Tailwind)",
+    title: "This Website (React)",
     link: "https://github.com/Cennywise/InocencioRangel.github.io",
     hoverImage: "project_images/website.png",
     animation: "animate-slide",
@@ -145,17 +145,17 @@ export default function App() {
               {/* Self-summary text */}
               <div className="flex-1 text-left text-xl">
                 <p className="mb-4">
-                  &emsp; I’m a math-trained analyst with a strong technical foundation and a habit of taking ownership of whatever work needs to get done.
+                  &emsp; A math-trained analyst with a strong technical foundation and a habit of taking ownership of whatever needs to get done.
                   I graduated from UC Davis with a B.S. in Mathematics, a computer science minor focused on machine learning, and a 3.5 GPA.
                   I’ve built additional experience through a data analytics bootcamp, technical projects, and ongoing work training AI models.
                 </p>
                 <p className="mb-4">
                   &emsp; Before moving into analytics, I spent two years at a law firm where I became the go-to problem-solver for both staff and attorneys.
                   I handled IT issues, trial preparation, billing support, and a wide range of responsibilities.
-                  I was awarded Employee of the Year for my impact and became someone the managing partner trusted during major trials.
+                  I was awarded Employee of the Year for my impact and trusted by the managing partner to work on the most important trials.
                 </p>
                 <p className="mb-4">
-                  &emsp; I enjoy turning complex information into clear, useful insights and producing work people can count on.
+                  &emsp; I enjoy turning complex information into clear, useful insights and producing solid work that people can rely on.
                   I’m looking to bring that same reliability and attention to detail to a role where I can contribute in a meaningful way.
                 </p>
               </div>
