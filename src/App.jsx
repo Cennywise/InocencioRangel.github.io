@@ -2,7 +2,7 @@ import { Mail, Linkedin, Github } from "lucide-react";
 
 const projects = [
   {
-    title: "Boston Airbnbs Dashboard (Tableau)",
+    title: "Boston Airbnb Dashboard (Tableau)",
     link: "https://github.com/Cennywise/Boston-Airbnb-Dashboard",
     hoverImage: "project_images/Boston_Dashboard_Pic.png",
     animation: "animate-slide",
