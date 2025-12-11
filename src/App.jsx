@@ -2,55 +2,55 @@ import { Mail, Linkedin, Github } from "lucide-react";
 
 const projects = [
   {
-    title: "Boston Airbnb Dashboard (Tableau)",
+    title: "Boston Airbnb Dashboard  (Tableau)",
     link: "https://github.com/Cennywise/Boston-Airbnb-Dashboard",
     hoverImage: "project_images/Boston_Dashboard_Pic.png",
     animation: "animate-slide",
   },
   {
-    title: "Data Analyst Survey (Power BI)",
+    title: "Data Analyst Survey  (Power BI)",
     link: "https://github.com/Cennywise/Data-Analysis-Survey-Dashboard",
     hoverImage: "project_images/Power_BI_Dashboard.jpg",
     animation: "animate-slide",
   },
   {
-    title: "Worldwide Layoffs (SQL)",
+    title: "Worldwide Layoffs  (SQL)",
     link: "https://github.com/Cennywise/MySQL-Exploratory-Data-Analysis",
     hoverImage: "project_images/world_layoffs.jpg",
     animation: "animate-slide",
   },
   {
-    title: "Reddit-Unemployment Study (Python)",
+    title: "Reddit-Unemployment Study  (Python)",
     link: "https://github.com/Cennywise/Reddit-Economy-Analysis",
     hoverImage: "project_images/Employment_and_Sentiment.png",
     animation: "animate-slide",
   },
   {
-    title: "AI Spotify Model (Python)",
+    title: "AI Spotify Model  (Python)",
     link: "https://github.com/leelasriniv/ecs-171-project",
     hoverImage: "project_images/Spotify_App.jpg",
     animation: "animate-slide",
   },
   {
-    title: "Sales Data Cleaning (Excel)",
+    title: "Sales Data Cleaning  (Excel)",
     link: "https://github.com/Cennywise/Bike-Sales-Data-Cleaning",
     hoverImage: "project_images/bike_store.jpg",
     animation: "animate-slide",
   },
   {
-    title: "AI Synonym Finder (C++)",
+    title: "AI Synonym Finder  (C++)",
     link: "https://github.com/Cennywise/AI-Synonym-Finder",
     hoverImage: "project_images/robot_library.jpg",
     animation: "animate-slide",
   },
   {
-    title: "Embers (Unity/C#)",
+    title: "Embers  (Unity/C#)",
     link: "https://github.com/Cennywise/Embers-3D-Survival-Game",
     hoverImage: "project_images/Embers.png",
     animation: "animate-slide",
   },
   {
-    title: "This Website (React + Tailwind)",
+    title: "This Website  (React + Tailwind)",
     link: "https://github.com/Cennywise/InocencioRangel.github.io",
     hoverImage: "project_images/website.png",
     animation: "animate-slide",
@@ -136,7 +136,7 @@ export default function App() {
               {/* Picture */}
               <div className="flex-shrink-0 w-[500px] h-[500px] rounded-full overflow-hidden shadow-lg">
                 <img
-                  src="selfie/tree_lean_small.jpg"
+                  src="selfie/tree_lean_smaller.jpg"
                   alt="Cenny Rangel"
                   className="w-full h-full object-cover"
                 />
